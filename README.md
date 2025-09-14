@@ -1,12 +1,13 @@
-# React + Vite
+# 🥋 Krav Maga Defence Force – Sales Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo à **landing page oficial do curso Krav Maga Defence Force**!  
+Esta página de vendas moderna, responsiva e otimizada apresenta o curso de autodefesa, destacando seus **benefícios, conteúdos e diferenciais**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚡ Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Biblioteca JavaScript para interfaces reativas e componentizadas.  
+- **Vite** – Ferramenta de build super rápida para projetos modernos em React.  
+- **Tailwind CSS** – Framework utilitário para estilização responsiva e elegante.  
+- **Lucide React** – Ícones SVG open-source, leves e customizáveis.  
